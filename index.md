@@ -4,9 +4,9 @@ title: RuneQuill Privacy Policy
 
 # RuneQuill Privacy Policy
 
-Effective date: October 20, 2026
+Effective date: October 23, 2026
 
-RuneQuill ("the app") is a tabletop RPG companion made by David Carr ("we", "us"). This policy explains what information the app handles and why.
+RuneQuill ("the app") is a tabletop RPG companion made by Nat1 Interactive ("we", "us"). This policy explains what information the app handles and why.
 
 ## The short version
 
@@ -19,7 +19,7 @@ RuneQuill ("the app") is a tabletop RPG companion made by David Carr ("we", "us"
 
 The app saves your campaigns, characters, character blueprints, notes, dice roll history, dice macros and Hub/homebrew entries in a local database on your phone. It also stores your theme preference and, if you've bought it, your Remove Ads status. Only you can access this data. We can't access it at all.
 
-**Device backup.** If you've turned on your phone's own backup (for example Google backup on Android), your operating system may include RuneQuill's saved data in that backup and in device-to-device transfers. That backup goes to your own account with your phone's provider, under their privacy policy, and not to us.
+**Device backup.** If you've turned on your phone's own backup (for example Google backup on Android), your operating system may include RuneQuill's local database (campaigns, characters, notes, and other saved content) in that backup and in device-to-device transfers. The Remove Ads purchase status is excluded from device backup. Any backup of the local database goes to your own account with your phone's provider, under their privacy policy, and not to us.
 
 **Exports and sharing.** When you choose to export a campaign or homebrew PDF, the app creates the file and opens your phone's share menu. Where it goes from there (email, Drive, a chat app, and so on) is up to you and is covered by that service's policy.
 
@@ -41,7 +41,11 @@ Google's handling of this data is described in [How Google uses information from
 
 ## Purchases
 
-Remove Ads is sold through Google Play Billing. Google processes the payment and tells the app only whether the purchase is valid. We don't receive your name, card or billing address. See the [Google Payments Privacy Notice](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice).
+Remove Ads is a one-time purchase sold through Google Play Billing. Google processes the payment and tells the app only whether the purchase is valid. We don't receive your name, card or billing address. See the [Google Payments Privacy Notice](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice).
+
+## Data security
+
+App data stays in the app's private storage on your device. The Remove Ads purchase status is stored encrypted (EncryptedSharedPreferences, AES-256) and is excluded from device backup. Ad data is sent to Google over encrypted (HTTPS) connections.
 
 ## What we don't do
 
@@ -67,8 +71,8 @@ We plan to add online features, such as sharing homebrew with other players. Bef
 
 ## Contact
 
-Contact: [CONTACT EMAIL TO BE ADDED]
+Contact: [Nat1Interactive@gmail.com](mailto:Nat1Interactive@gmail.com)
 
 ---
 
-© 2026 David Carr
+© 2026 Nat1 Interactive
