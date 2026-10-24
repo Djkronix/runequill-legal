@@ -4,7 +4,7 @@ title: RuneQuill Privacy Policy
 
 # RuneQuill Privacy Policy
 
-Effective date: October 23, 2026
+Effective date: October 24, 2026
 
 RuneQuill ("the app") is a tabletop RPG companion made by Nat1 Interactive ("we", "us"). This policy explains what information the app handles and why.
 
@@ -12,7 +12,7 @@ RuneQuill ("the app") is a tabletop RPG companion made by Nat1 Interactive ("we"
 
 - RuneQuill currently has no accounts and doesn't ask for your name, email, or a sign-in.
 - Your characters, campaigns, notes, dice history and homebrew stay on your device. We currently don't run any servers, so we don't receive that content.
-- The free version shows ads from Google AdMob. AdMob may collect device identifiers to serve and measure ads.
+- The free version shows ads from Google AdMob. AdMob may collect device identifiers to serve and measure ads. Where the law requires it (for example in the EEA and UK), the app first asks for your consent through Google's consent form, and you can change your choice later in the app.
 - If you buy "Remove Ads", Google Play handles the payment. We never see your card details.
 
 ## Information stored on your device
@@ -36,8 +36,20 @@ Google's handling of this data is described in [How Google uses information from
 
 **Your choices:**
 
+- Where a consent form applies, you can review or change your ad consent in the app under Settings > About & Legal Attribution > Privacy choices.
 - You can reset or delete your advertising ID, or opt out of personalized ads, in your phone's settings (on Android: Settings > Google > Ads, or Settings > Privacy > Ads).
 - Buying Remove Ads turns ads off.
+
+## Ad consent (Google User Messaging Platform)
+
+Where the law requires it, such as in the European Economic Area (EEA) and the UK, the app shows a consent form from Google's User Messaging Platform when you first use the free version. The form lets you choose whether ads can use your device information to personalize them. Ads are not requested until the consent process allows it.
+
+- **What it records.** Your choice is saved on your device by Google's consent SDK. Your device and the app contact Google to check whether a form is needed and to record your choice. Google may process your IP address and device and app information for this. We do not receive your choice or any personal data from it.
+- **Changing your choice.** If a consent form applies to you, open Settings > About & Legal Attribution and tap **Privacy choices** to review or change your choice at any time. The row only appears where a consent form applies to you.
+- **If you decline.** Ads may be shown without personalizing them to you, depending on the options you choose in Google's form.
+- **If the consent check fails** (for example you are offline), the app keeps working and requests only non-personalized ads.
+- **Remove Ads.** If you buy Remove Ads, the app doesn't show ads or ask for ad consent.
+- **Legal basis.** For people in the EEA, UK and similar regions, we ask for your consent before personalized ads or device storage and access for ads. You can withdraw it any time through Privacy choices or your phone's ad settings.
 
 ## Purchases
 
@@ -55,7 +67,7 @@ App data stays in the app's private storage on your device. The Remove Ads purch
 
 ## Children
 
-RuneQuill is not directed at children under 13 (or the minimum age in your country), and we don't knowingly collect personal information from children. If you believe a child has used the app in a way that concerns you, contact us below.
+RuneQuill is not directed at children under 13 (or the minimum age in your country), and we don't knowingly collect personal information from children. If you believe a child has used the app in a way that concerns you, contact us below. We limit ads to content rated Teen (T) or lower.
 
 ## Deleting your data
 
@@ -63,7 +75,7 @@ All of your RuneQuill data lives on your device. To delete it, use the app's del
 
 ## Your rights
 
-Depending on where you live (for example under the GDPR in the EU or UK, or the CCPA/CPRA in California), you may have rights to access, delete or object to the processing of your personal information. Since we don't hold any personal data on our side, most requests are handled by the steps above or by Google. You can still contact us with any request.
+Depending on where you live (for example under the GDPR in the EU or UK, or the CCPA/CPRA in California), you may have rights to access, delete or object to the processing of your personal information. Since we don't hold any personal data on our side, most requests are handled by the steps above or by Google. You can still contact us with any request. You can withdraw ad consent at any time as described in "Ad consent" above.
 
 ## Changes
 
